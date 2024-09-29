@@ -41,12 +41,12 @@ begin
         wait for 10 ns;
         not_C <= '1';
         wait for 10 ns;
-        not_R <= '0';
+--        not_R <= '0';
         not_C <= '0';
         wait for 10 ns;
         not_C <= '1';
         wait for 10 ns;
-        not_R <= '1';
+--        not_R <= '1';
         not_C <= '0';
         wait for 10 ns;
         not_C <= '1';

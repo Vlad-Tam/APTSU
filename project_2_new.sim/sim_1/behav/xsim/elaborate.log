@@ -1,6 +1,6 @@
 Vivado Simulator 2018.2
 Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
-Running: D:/Software/Vivado/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 14eaf648cb1343b0b10e5fa219744865 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot JK_wrapper_testbench_behav xil_defaultlib.JK_wrapper_testbench -log elaborate.log 
+Running: D:/Software/Vivado/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 14eaf648cb1343b0b10e5fa219744865 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot SUDCWORAM3SO_SN74LS697_testbench_v1_behav xil_defaultlib.SUDCWORAM3SO_SN74LS697_testbench_v1 -log elaborate.log 
 Using 2 slave threads.
 Starting static elaboration
 Completed static elaboration
@@ -12,5 +12,6 @@ Compiling package std.textio
 Compiling package ieee.std_logic_1164
 Compiling architecture behavioral of entity xil_defaultlib.JK_trigger [jk_trigger_default]
 Compiling architecture behavioral of entity xil_defaultlib.JK_wrapper [jk_wrapper_default]
-Compiling architecture behavioral of entity xil_defaultlib.jk_wrapper_testbench
-Built simulation snapshot JK_wrapper_testbench_behav
+Compiling architecture behavioral of entity xil_defaultlib.SUDCWORAM3SO_SN74LS697 [sudcworam3so_sn74ls697_default]
+Compiling architecture behavioral of entity xil_defaultlib.sudcworam3so_sn74ls697_testbench...
+Built simulation snapshot SUDCWORAM3SO_SN74LS697_testbench_v1_behav

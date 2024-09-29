@@ -1,2 +1,2 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/1/Desktop/7sem/UPTSU/project_2_new/project_2_new.srcs/sim_1/new/JK_wrapper_testbench.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity JK_wrapper_testbench
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/1/Desktop/7sem/UPTSU/project_2_new/project_2_new.srcs/sim_1/new/SUDCWORAM3SO_SN74LS697_testbench_v1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity SUDCWORAM3SO_SN74LS697_testbench_v1
